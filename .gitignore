@@ -1,4 +1,6 @@
-*/__pycache__
 logo.odg
 credentials.json
 token.pickle
+launch.json
+settings.json
+*/__pycache__
